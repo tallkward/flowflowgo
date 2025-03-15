@@ -22,4 +22,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 - Modern React with Next.js
 - TypeScript support
-- Clean and minimal design 
+- Clean and minimal design
